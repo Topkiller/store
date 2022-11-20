@@ -1,0 +1,47 @@
+.tabBarIcon {
+  width: 2.5rem;
+  height: 2.5rem;
+  background: center center / 2.5rem 2.5rem no-repeat;
+}
+
+.homeIcon {
+  background-image: url('https://img.icons8.com/clouds/344/home-page.png');
+}
+
+.subscribe {
+  background-image: url('https://img.icons8.com/clouds/344/cloud-link.png');
+}
+
+.my {
+  background-image: url('https://gitee.com/scriptableJS/store/raw/master/public/icon.png');
+}
+
+.fixed-bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 100;
+  background: #fff;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+:global {
+  .am-tab-bar-bar {
+    height: unset;
+
+    .am-tab-bar-tab-title {
+      font-size: 1rem;
+      margin: 0 0 0.4rem 0;
+    }
+  }
+}
+
+.avatar {
+  margin-top: 0.5rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  border-radius: 50%;
+  border: 1px solid #f6f6f6;
+  overflow: hidden;
+}
