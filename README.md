@@ -2,6 +2,8 @@
 
 ## [Tg 电报群](https://t.me/Scriptable_JS)
 
+> fork: https://github.com/dompling/store
+
 > 访问地址：[WidgetStore](https://dompling.github.io/store/)
 
 - YouTube: [WidgetStore 使用方式](https://youtu.be/qeNbKMtThKc)
@@ -34,10 +36,12 @@ BoxJS 数据，是根据 圈 X，Loon , Surge 做的代理功能，教程如下�
 - 检查 MitM 中是否存在当前 boxjs 域名（该网站为 https 访问，boxjs 的关联也必须为 https）
 - 更多问题请到[电报群](https://t.me/Scriptable_JS)
 
+<!--
 # 赞赏码
 
 <img src="https://raw.githubusercontent.com/dompling/Scriptable/master/birthdayCountDown/2Ya.jpg"  width="200" height="200" align="bottom" />
 
+-->
 ## 特别感谢
 
 - [@GideonSenku](https://github.com/GideonSenku)
